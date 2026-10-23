@@ -120,7 +120,7 @@ Should print nothing. If it prints a line — STOP and tell Elvin.
 
 | `APP\_SECRET` | \*(sent by Elvin)\* |
 
-| `SEATALK\_GROUP\_ID` | `MjQ0OTE0ODU1MTkw` — to post to more than one group, list the IDs separated by commas, e.g. `MjQ0OTE0ODU1MTkw,<second-group-id>` |
+| `SEATALK\_GROUP\_ID` | `MjQ0OTE0ODU1MTkw,Mjk5NTE0MTczNzgy` — to post to more than one group, list the IDs separated by commas, e.g. `MjQ0OTE0ODU1MTkw,<second-group-id>` |
 
 | `ADMIN\_CODE` | \*(sent by Elvin)\* |
 
